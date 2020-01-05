@@ -1,6 +1,6 @@
 ---
 layout: list
-title: system
+title: SYSTEM
 slug: system
 category: projects
 order: 4

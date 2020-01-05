@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Humanoid
+title: HUMANOID
 slug: humanoid
 category: projects
 order: 1

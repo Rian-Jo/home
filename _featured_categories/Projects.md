@@ -4,18 +4,19 @@ title: Projects
 slug: projects
 menu: true
 order: 3
-#image: ../assets/img/blog/hydejack-8.png
+image: ../assets/img/blog/hydejack-8.png
 ---
 
 # Projects
+진행했던 프로젝터와 개발과 관련된 글을 적습니다. 로봇공학과 관련된 내용입니다.
 
-## [humanoid][humanoid]
+* [HUMANOID][humanoid]
 
-## [dual-arm][dualarm]
+* [DUAL-ARM ROBOT][dualarm]
 
-## [arm-hand][armhand]
+* [ARM & HAND][armhand]
 
-## [system][system]
+* [SYSTEM][system]
 
 
 [humanoid]: ../_featured_tags/humanoid.md

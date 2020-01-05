@@ -1,7 +1,8 @@
 ---
 layout: list
-title: ArmHand
+title: ARM & HAND
 slug: armhand
 category: projects
 order: 3
 ---
+
