@@ -4,6 +4,6 @@ This is a homepage of Rian Joonhee Jo. It is created to presernt CV and worked p
 
 It is powered by HydeJack[welcome].
 
-![Screenshot](assets/img/blog/hydejack-8.png)[welcome]
+![Screenshot](assets/img/blog/hydejack-8.png)
 
-[welcome]: https://hydejack.com/
+[Screenshot]: https://hydejack.com/
