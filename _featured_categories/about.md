@@ -5,6 +5,7 @@ slug: about
 menu: true
 submenu: false
 order: 1
+accent_image: /assets/img/blog/profile_famille_station.jpg
 image: ../assets/img/blog/hydejack-8.png
 ---
 
