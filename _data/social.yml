@@ -58,7 +58,7 @@ rss:
 youtube:
   name: YouTube
   icon: icon-youtube
-  prepend: "https://www.youtube.com/channel/"
+  prepend: "https://www.youtube.com/channel/UCrEDR-C57MYHgk6e9NrG4ug"
 twitch:
   name: Twitch
   icon: icon-twitch

@@ -13,6 +13,14 @@ order: 2
 
 # **Conference (International)**
 
+ - Joonhee Jo, Gyunghoon Park, Yonghwan Oh, "Robust Landing Stabilization of Humanoid Robot on Uneven Terrain via Admittance Control and Heel Strike Motion", International Conference on Robotics and Automation (ICRA), accepted, 2021.
+
+ - Joonhee Jo, Yonghwan Oh, "Impedance Control of Humanoid Walking on Uneven Terrain With Centroidal Momentum Dynamics Using Quadratic Programming", International Conference on Intelligent Robots and Systems (IROS), pp.3525-3530, 2020.
+
+ - Gyunghoon Park, Jung Hoon Kim, Joonhee Jo, Yonghwan Oh, "Lyapunov-based Approach to Reactive Step Generation for Push Recovery of Biped Robots via Hybrid Tracking Control of DCM", International Conference on Intelligent Robots and Systems (IROS), pp.3504-3509, 2020.
+
+ - Joonhee Jo, Yonghwan Oh, "Contact Force based Balancing and Tracking Control of a Ballbot using Projected Task Space Dynamics with Inequality Constraints", International Conference on Ubiquitous Robots (UR), pp.118-123, 2020.
+
  - Seungjae Yoo, Joonhee Jo, Yonghwan Oh, "A Comparison Study on Coupling Effects in Balance Control Methods of Humanoid Robots through an Extended Task Space Formulation," International Conference on Informatics in Control, Automation and Robotics (ICINCO), pp.206-213, 2019.
 
  - Dong-hyun Lee, Sungmoon Hur, Joonhee Jo, Yonghwan Oh, "Whole-body Control of Upper-body Robot for Picking up a heavy object," International Conference on Mechatronics Technology (ICMT), 2015.
@@ -57,6 +65,8 @@ order: 2
  - 김성균, 조준희, 오용환, "로봇 핸드의 파지력 제어 시스템 및 방법", 등록번호: 10-1323217.
 
 ## *출원*
+ - 조준희, 오용환, "영공간으로 투영된 작업 공간을 활용한 볼봇의 자세 균형 제어 방법 및 이를 이용하는 제어 시스템", 출원번호: 2020-0140151
+
  - 조준희, 오용환, "확장 작업 공간을 활용한 휴머노이드 제어방법", 출원번호: 2019-0136502
 
  - 조준희, 오용환, "최소 영공간 작업의 매개변수화 방법", 출원번호: 2019-0124496

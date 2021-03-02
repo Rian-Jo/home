@@ -4,8 +4,8 @@ title: Projects
 slug: projects
 menu: true
 order: 3
-accent_image: /assets/img/blog/profile_famille_station.jpg
-image: ../assets/img/blog/hydejack-8.png
+#accent_image: /assets/img/blog/profile_famille_station.jpg
+#image: ../assets/img/blog/hydejack-8.png
 ---
 
 # Projects

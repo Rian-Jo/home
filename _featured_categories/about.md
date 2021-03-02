@@ -5,8 +5,8 @@ slug: about
 menu: true
 submenu: false
 order: 1
-accent_image: /assets/img/blog/profile_famille_station.jpg
-image: ../assets/img/blog/hydejack-8.png
+#accent_image: /assets/img/blog/profile_famille_station.jpg
+#image: ../assets/img/blog/hydejack-8.png
 ---
 
 ## **About**
@@ -41,7 +41,7 @@ Planning to control the robot to help people live better lives.
 
    Name      | Tasks  
   :----------|:----------
-   KIST      | CAS-X를 위한 센서 및 플랫폼 기술 개발(2017-2019) 
+   KIST      | CAS-X를 위한 센서 및 플랫폼 기술 개발(2017-2020) 
              | 양팔 작업을 위한 센서융합 인지 기반 제어기술 개발 및 다중로봇 협업 생산공정 적용 기술 개발(2014-2016) 
              | 가사작업을 위한 로봇 손-팔 연동 파지-조작 제어 기술개발(2011-2014) 
 
@@ -49,8 +49,8 @@ Planning to control the robot to help people live better lives.
 
    Name      | Domestic  | International 
   :----------|:----------|:--------------
-   Conference|         4 |            10 
-   Patent    |         3 |               
+   Conference|         4 |            14 
+   Patent    |         4 |               
   ===========|===========|===============
   Totals     |         7 |            10 
 
@@ -62,7 +62,7 @@ Planning to control the robot to help people live better lives.
 
 ## **Exibition (Domestic, Republic of Korea)**
 
-* "Haptic device Operation," KOREA TECH SHOW 2019
+* "Haptic device Operation," [KOREA TECH SHOW 2019](http://www.etnews.com/20200112000035)
 * "Ball on plate," RoboUniverse 2015
 * "Grasping force and interaction force control of robotic hand," RoboWorld 2013
 * "Grasping force control of robotic hand," RoboWorld 2012
@@ -89,6 +89,6 @@ Planning to control the robot to help people live better lives.
 
 ## **Education**
 
-* 2011 ~ 2019 UST-KIST 캠퍼스 로봇공학 전공 석박사과정 수료
+* 2011 ~ 2021 UST-KIST 캠퍼스 로봇공학 전공 석박사과정 수료
 * 2009 ~ 2011 인하대학교 IT대학 전자공학 전공 학사 졸업
 * 2006 ~ 2009 인하공업전문대학 메카트로닉스 전공 전문학사 졸업
