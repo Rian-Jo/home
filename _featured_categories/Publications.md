@@ -12,11 +12,11 @@ order: 2
 <hr>
 
 
-# ** Journal **
+# **Journal**
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FRian-Jo%2Fhome%2Fmaster%2F_posts%2Fpublication%2Fbib_journal.bib&commas=true&jsonp=1"></script>
 
-# ** Conference **
+# **Conference**
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FRian-Jo%2Fhome%2Fmaster%2F_posts%2Fpublication%2Fbib_conference.bib&commas=true&jsonp=1"></script>
  
