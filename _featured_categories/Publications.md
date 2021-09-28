@@ -12,7 +12,7 @@ order: 2
 <hr>
 
 
-<script src="https://bibbase.org/show?bib=https://github.com/Rian-Jo/home/blob/master/_posts/publication/bibliography.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FRian-Jo%2Fhome%2Fmaster%2F_posts%2Fpublication%2Fbibliography.bib&commas=true&jsonp=1"></script>
 
 # **Conference (International)**
 
