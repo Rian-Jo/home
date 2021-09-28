@@ -11,6 +11,9 @@ order: 2
 
 <hr>
 
+
+<script src="https://bibbase.org/show?bib=https://github.com/Rian-Jo/home/blob/master/_posts/publication/bibliography.bib&jsonp=1"></script>
+
 # **Conference (International)**
 
  - Joonhee Jo, Gyunghoon Park, Yonghwan Oh, "Robust Landing Stabilization of Humanoid Robot on Uneven Terrain via Admittance Control and Heel Strike Motion", International Conference on Robotics and Automation (ICRA), accepted, 2021.
