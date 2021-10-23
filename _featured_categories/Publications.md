@@ -61,19 +61,6 @@ order: 2
 <hr>
 
 
-
-<!-- 
-# **Journal**
-
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FRian-Jo%2Fhome%2Fmaster%2F_posts%2Fpublication%2Fbib_journal.bib&commas=true&jsonp=1"></script>
-
-# **Conference**
-
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FRian-Jo%2Fhome%2Fmaster%2F_posts%2Fpublication%2Fbib_conference.bib&commas=true&jsonp=1"></script>
- 
-<hr>
--->
-
 # **Patent (Domestic, Republic of Korea)**
 
 ## *등록*
@@ -101,3 +88,20 @@ order: 2
  - 조준희, 오용환, 김성균, "로봇 손 운영 프로그램", Domestic: 2011-01-129-008320
 
  - 김성균, 오용환, 조준희, "F/T 센서 자율 캘리브레이션 프로그램", Domestic: 2011-01-129-008314.
+
+
+
+
+
+
+<!-- 
+# **Journal**
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FRian-Jo%2Fhome%2Fmaster%2F_posts%2Fpublication%2Fbib_journal.bib&commas=true&jsonp=1"></script>
+
+# **Conference**
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FRian-Jo%2Fhome%2Fmaster%2F_posts%2Fpublication%2Fbib_conference.bib&commas=true&jsonp=1"></script>
+ 
+<hr>
+-->
