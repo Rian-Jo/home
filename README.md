@@ -1,9 +1,9 @@
-# Rian's Home
+# Legacy Redirects For `/home`
 
-This is a homepage of **Rian Joonhee Jo**. It is created to presernt CV and worked projects on.
+This repository now exists only to preserve the old project-site URLs under `https://rian-jo.github.io/home/`.
 
-It is powered by HydeJack.
+It publishes a minimal static redirect site that forwards legacy `/home/*` paths to the canonical homepage at `https://rian-jo.github.io/`.
 
-[![Screenshot](assets/img/blog/hydejack-8.png)][welcome]
+Primary canonical site:
 
-[welcome]: https://hydejack.com/
+- https://rian-jo.github.io/

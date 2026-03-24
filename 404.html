@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex" />
+    <title>Redirecting...</title>
+    <script>
+      const canonicalBase = 'https://rian-jo.github.io';
+      const routeMap = {
+        '/home/': '/',
+        '/home/about/': '/about/',
+        '/home/publications/': '/publications/',
+        '/home/projects/': '/projects/',
+        '/home/projects/2019-12-28-Projects-Teaching/': '/projects/whole-body-teaching/',
+        '/home/projects/2019-12-29-Projects-Teaching-2/': '/projects/whole-body-teaching/',
+        '/home/projects/2019-12-30-Projects-Dynamic-Walking/': '/projects/humanoid-walking/',
+        '/home/projects/2019-12-31-Projects-Dynamic-Walking-2/': '/projects/humanoid-walking/',
+      };
+
+      const pathname = window.location.pathname.endsWith('/')
+        ? window.location.pathname
+        : `${window.location.pathname}/`;
+      const targetPath = routeMap[pathname] ?? '/';
+      const target = new URL(targetPath, canonicalBase);
+      target.search = window.location.search;
+      target.hash = window.location.hash;
+      window.location.replace(target.toString());
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to <a href="https://rian-jo.github.io/">https://rian-jo.github.io/</a>.</p>
+  </body>
+</html>
